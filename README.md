@@ -4,7 +4,7 @@ Una discusión sobre consejos, tips, templates y políticas para estructurar rep
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+## Indice
 
 - [Temas de la presentación](#temas-de-la-presentaci%C3%B3n)
 - [Otros temas interesantes no cubiertos](#otros-temas-interesantes-no-cubiertos)
